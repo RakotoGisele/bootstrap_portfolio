@@ -1,0 +1,8 @@
+body {
+    background-image: url(https://zupimages.net/up/20/34/niqv.jpg);
+}
+.navbar {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: linear-gradient( #792023, #813546);
+    text-shadow: indianred 0.2em 0.2em 0.4em;
+}
